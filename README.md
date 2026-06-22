@@ -34,7 +34,8 @@ Each section is written by a different team member.
 <!-- [Alex Chomba] will write this section -->
 
 ## UX Designer.
-<!-- [Angela] will write this section -->
+**An UX Designer** ensures a digital product is easy, intuitive and pleasant for people to use.
+
 
 ## Cybersecurity Analyst.
 <!-- [Josephine] will write this section -->
