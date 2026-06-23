@@ -33,7 +33,7 @@ Each section is written by a different team member.
 ## Data Scientist.
 <!-- [Alex Chomba] will write this section -->
 
-## UX Designer.
+## 3. UX Designer.
 **An UX Designer** ensures a digital product is easy, intuitive and pleasant for people to use.
 
 ### Contributions of an UX Designer to the society.
