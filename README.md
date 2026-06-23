@@ -17,7 +17,7 @@ Each section is written by a different team member.
 ## Software Engineer.
 **A Software Engineer** is a professional who applies engineering principles to design, develop, test and maintain software applications.
 
-###Contributions of Software Engineers to the Society.
+### Contributions of Software Engineers to the Society.
 - Create the applications and platforms that have become essential to modern living.
 - Modern finance runs entirely on code. Software engineers build the infrastructure that keeps money moving safely.
 - They design the infrastructure required to train massive machine learning models, build API integrations, and create neural networks.
