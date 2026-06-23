@@ -31,7 +31,30 @@ Each section is written by a different team member.
 
 
 ## 2. Data Scientist.
-<!-- [Alex Chomba] will write this section -->
+**A data scientist** is someone who turns raw data into meaningful information to help solve real-world problems and improve decision-making.
+
+### Contributions of a Data Scientist to Society.
+- They improve healthcare by analyzing data to predict diseases and improve treatment.
+- Supports better decision-making in businesses and government through data insights.
+- Helps fight fraud by detecting unusual patterns in financial systems.
+- They improves everyday technology like recommendation systems in apps and websites.
+- Helps solve real-world problems such as traffic, climate change, and resource management.
+- Contributes to innovation by developing artificial intelligence and predictive models.
+
+### Advantages of a Data Scientist.
+- A data scientist has many job opportunities because the field is in high demand.
+- The career offers a good salary and strong growth potential.
+- A data scientist works on solving real-world problems using data.
+- The job involves continuous learning and working with modern technology like AI.
+- A data scientist contributes to important areas like healthcare, business, and education.
+
+### Disadvantages of a Data Scientist.
+- The job requires strong skills in mathematics, statistics, and programming.
+- It can be stressful because of complex data problems and deadlines.
+- A data scientist must continuously learn new tools and technologies.
+- The work can involve long hours, especially when analyzing large datasets.
+- It may require handling messy or incomplete data, which can be challenging.
+
 
 ## 3. UX Designer.
 **An UX Designer** ensures a digital product is easy, intuitive and pleasant for people to use.
