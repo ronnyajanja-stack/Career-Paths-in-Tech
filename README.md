@@ -44,6 +44,19 @@ Each section is written by a different team member.
 - A UX designer supports business growth by improving customer satsfaction through better users experiences.
 - A UX designer hepls the socoety by creating digital products that are easy and comfortable to use.
 
+### Some advantages of a UX designer;
+- They help to create products that are easy and enjoyable to use.
+- They improve customer satisfaction by reducing user frustration.
+- Hepls business attract and retain more users.
+- They improve accessibility for diffrent types of users.
+- A Ux designer supports innovation by improving digital experiences.
+
+### Some disadvantages of a UX designer;
+- UX designer can take alot of time because research and testing are required.
+- Hiring UX designers can be expensive for some businesses.
+- Too much focus on user prefrences may sometimes slow decision making.
+- Poor communication between UX designers and developers can affect the final product.
+- It can be challanging to satisfy every yer because people have diffrent preferences.
 
 ## Cybersecurity Analyst.
 <!-- [Josephine] will write this section -->
