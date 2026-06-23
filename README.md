@@ -36,6 +36,14 @@ Each section is written by a different team member.
 ## UX Designer.
 **An UX Designer** ensures a digital product is easy, intuitive and pleasant for people to use.
 
+###Contributions of an UX Designer to the society.
+- Makes technology easier to use where they create apps, websites and systems that are simple to use.
+- A ux designer saves people time by designing simple and efficient systems for completing tasks.
+- A UX designer solves real-world problems by understanding user's needs and creating better solutions.
+- A UX designer promotes inclusively by designing products that can be used by people of all abilities.
+- A UX designer supports business growth by improving customer satsfaction through better users experiences.
+- A UX designer hepls the socoety by creating digital products that are easy and comfortable to use.
+
 
 ## Cybersecurity Analyst.
 <!-- [Josephine] will write this section -->
