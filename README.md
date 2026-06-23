@@ -23,7 +23,7 @@ Each section is written by a different team member.
 - They design the infrastructure required to train massive machine learning models, build API integrations, and create neural networks.
 - They build the precise tools used by AI content evaluators and data annotators to label, sort, and clean datasets, which directly trains smarter, more accurate AI models.
 - They implement robust security protocols, data encryption standards, and firewalls to protect sensitive corporate, government, and personal data from breaches.
-- They ensure that critical infrastructure—like power grids, hospital databases, and cloud services—maintains high availability and experiences zero downtime.
+- They ensure that critical infrastructure - like power grids, hospital databases, and cloud services—maintains high availability and experiences zero downtime.
 -They write programs that handle repetitive tasks, freeing up human workers to focus on creative and strategic problem-solving.
 - They build data pipelines and analytics dashboards that allow organizations to process massive amounts of data and make informed business decisions.
 
