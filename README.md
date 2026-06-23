@@ -14,7 +14,7 @@ A collaborative guide by [1. Ronny Ajanja, 2. Alex Chomba, 3. Angela, 4. Josephi
 This guide covers career paths in Tech.
 Each section is written by a different team member.
 
-## Software Engineer.
+## 1. Software Engineer.
 **A Software Engineer** is a professional who applies engineering principles to design, develop, test and maintain software applications.
 
 ### Contributions of Software Engineers to the Society.
@@ -30,7 +30,7 @@ Each section is written by a different team member.
 
 
 
-## Data Scientist.
+## 2. Data Scientist.
 <!-- [Alex Chomba] will write this section -->
 
 ## 3. UX Designer.
@@ -58,8 +58,8 @@ Each section is written by a different team member.
 - Poor communication between UX designers and developers can affect the final product.
 - It can be challanging to satisfy every yer because people have diffrent preferences.
 
-## Cybersecurity Analyst.
+## 4. Cybersecurity Analyst.
 <!-- [Josephine] will write this section -->
 
-## Data Annotator.
+## 5. Data Annotator.
 <!-- [Dorothy] will write this section -->
