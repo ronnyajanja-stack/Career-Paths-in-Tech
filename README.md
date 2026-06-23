@@ -4,8 +4,8 @@ A collaborative guide by;
  1. Ronny Ajanja. 
  2. Kennedy Chomba. 
  3. Angela Kiguru.
- 4. Josephine. 
- 5. Dorothy.
+ 4. Josephine Totoi. 
+ 5. Dorothy Muga.
 
 ## Table of Contents
 
