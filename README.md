@@ -59,8 +59,7 @@ Each section is written by a different team member.
 - It can be challanging to satisfy every yer because people have diffrent preferences.
 
 ## 4. Cybersecurity Analyst.
-A cybersecurity analyst is a professional who protects computer systems, networks and data from cyber threats such as hacking,viruses and data theft.
-
+A cybersecurity analyst is a professional who protects computer systems, networks and data from cyber threats such as hacking, viruses and data theft.
 
 ### Contributions of a Cybersecurity Analyst to the Society.
 - A cybersecurity analyst protects people’s personal and financial information.
@@ -84,4 +83,26 @@ A cybersecurity analyst is a professional who protects computer systems, network
 
 
 ## 5. Data Annotator.
-<!-- [Dorothy] will write this section -->
+A data annotator prepares data by teaching computers what things mean so that AI systems can learn and make decisions correctly.
+
+### Contributions of a Data Annotator to Society.
+- A data annotator helps train artificial intelligence systems by labeling data correctly.
+- They improve the accuracy of technologies like face recognition and voice assistants.
+- They support the development of safer self-driving cars by labeling road data.
+- They help improve healthcare AI by labeling medical images for diagnosis.
+- They contribute to better digital services by improving machine learning models.
+
+### Advantages of a Data Annotator.
+- A data annotator helps develop advanced technologies like AI and machine learning.
+- The job is easy to start because it does not always require high-level technical skills.
+- It provides opportunities to learn about artificial intelligence and data systems.
+- It can be done remotely, offering flexible working conditions.
+- It plays an important role in improving digital tools like voice assistants and image recognition.
+
+### Disadvantages of a Data Annotator.
+- The work can be repetitive and sometimes boring.
+- It may require long hours of sitting and focusing on similar tasks.
+- The job can be low-paying compared to other tech careers.
+- It requires high attention to detail, and mistakes can affect AI accuracy.
+- There may be limited career growth without further training or education.
+
