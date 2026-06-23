@@ -1,14 +1,22 @@
 # Career Paths in Tech.
 
-A collaborative guide by [1. Ronny Ajanja, 2. Alex Chomba, 3. Angela Kiguru, 4. Josephine, 5. Dorothy].
+A collaborative guide by;
+ 1. Ronny Ajanja. 
+ 2. Alex Chomba. 
+ 3. Angela Kiguru.
+ 4. Josephine. 
+ 5. Dorothy.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Software Engineer](#software engineer)
-- [Data Scientist](#data scientist)
-- [Ux Designer](#ux designer)
-- [Cybersecurity Analyst](cybersecurity analyst)
-- [Data Annotator](data annotator)
+
+| NO. | Career Path | Link |
+| :--- | :--- | :--- |
+| 1. ||Introduction | [Go to Section](#introduction) |
+| 2. | Software Engineer | [Go to section] (#software engineer) |
+| 3. | Data Scientist | [Go to section] (#data scientist) |
+| 4. | Ux Designer | [Go to section] (#ux designer) |
+| 5. | Cybersecurity Analyst | [Go to section] (#cybersecurity analyst) |
+| 6. | Data Annotator | [Go to section] (#data annotator) |
 
 ## Introduction
 This guide covers career paths in Tech.
