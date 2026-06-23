@@ -1,6 +1,6 @@
 # Career Paths in Tech.
 
-A collaborative guide by [1. Ronny Ajanja, 2. Alex Chomba, 3. Angela, 4. Josephine, 5. Dorothy].
+A collaborative guide by [1. Ronny Ajanja, 2. Alex Chomba, 3. Angela Kiguru, 4. Josephine, 5. Dorothy].
 
 ## Table of Contents
 - [Introduction](#introduction)
