@@ -59,7 +59,7 @@ Each section is written by a different team member.
 - It can be challanging to satisfy every yer because people have diffrent preferences.
 
 ## 4. Cybersecurity Analyst.
-A cybersecurity analyst is a professional who protects computer systems, networks and data from cyber threats such as hacking, viruses and data theft.
+**A cybersecurity analyst** is a professional who protects computer systems, networks and data from cyber threats such as hacking, viruses and data theft.
 
 ### Contributions of a Cybersecurity Analyst to the Society.
 - A cybersecurity analyst protects people’s personal and financial information.
@@ -83,7 +83,7 @@ A cybersecurity analyst is a professional who protects computer systems, network
 
 
 ## 5. Data Annotator.
-A data annotator prepares data by teaching computers what things mean so that AI systems can learn and make decisions correctly.
+**A data annotator** prepares data by teaching computers what things mean so that AI systems can learn and make decisions correctly.
 
 ### Contributions of a Data Annotator to Society.
 - A data annotator helps train artificial intelligence systems by labeling data correctly.
