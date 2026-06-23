@@ -74,7 +74,7 @@ A cybersecurity analyst is a professional who protects computer systems, network
 - It allows continuous learning because technology keeps changing.
 - It gives job satisfaction through solving security problems.
 
-### Disadvantages of a Cybersecurity Analyst
+### Disadvantages of a Cybersecurity Analyst.
 - The job can be stressful due to constant security threats.
 - It may require working long or irregular hours during emergencies.
 - Cyber threats change rapidly, so constant learning is needed.
