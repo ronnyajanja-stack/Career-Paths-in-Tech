@@ -163,3 +163,9 @@ Data Scientist analyses data to discover patterns and insights.
 - Kaggle
 - DataCamp
 
+### Career Path
+Junior Data Scientist
+→ Data Scientist
+→ Senior Data Scientist
+→ Lead Data Scientist
+→ Head of Data Science
