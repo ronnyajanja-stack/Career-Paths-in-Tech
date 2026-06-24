@@ -128,3 +128,15 @@ Each section is written by a different team member.
 - It requires high attention to detail, and mistakes can affect AI accuracy.
 - There may be limited career growth without further training or education.
 
+## Data Scientist
+Data Scientist analyses data to discover patterns and insights.
+### Skills
+- Python
+- SQL
+- Machine learning
+- Statistics
+### Learning resources
+- Coursera
+- Kaggle
+- DataCamp
+
