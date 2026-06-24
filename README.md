@@ -102,27 +102,6 @@ Each section is written by a different team member.
 - It can be challanging to satisfy every yer because people have diffrent preferences.
 
 ## 4. Cybersecurity Analyst.
-**A cybersecurity analyst** is a professional who protects computer systems, networks and data from cyber threats such as hacking, viruses and data theft.
-
-### Contributions of a Cybersecurity Analyst to the Society.
-- A cybersecurity analyst protects people’s personal and financial information.
-- They help prevent cybercrime and online fraud.
-- They improve the security of businesses and organizations.
-- They protect critical systems such as banks, hospitals, and government networks.
-
-### Advantages of a Cybersecurity Analyst.
-- A cybersecurity analyst helps protect important data and systems from attacks.
-- It is a highly demanded career with many job opportunities.
-- The career offers good salary and growth opportunities.
-- It allows continuous learning because technology keeps changing.
-- It gives job satisfaction through solving security problems.
-
-### Disadvantages of a Cybersecurity Analyst.
-- The job can be stressful due to constant security threats.
-- It may require working long or irregular hours during emergencies.
-- Cyber threats change rapidly, so constant learning is needed.
-- Mistakes can lead to serious data loss or security breaches.
-- The work can sometimes be mentally demanding.
 
 
 ## 5. Data Annotator.
