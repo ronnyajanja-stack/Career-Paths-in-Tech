@@ -161,3 +161,10 @@ Data Scientist analyses data to discover patterns and insights.
 - Kaggle
 - DataCamp
 
+### Data Analysis Tools
+- Pandas
+- NumPy
+- Matplotlib
+- Tableau
+- Power BI
+- Jupyter Notebook
